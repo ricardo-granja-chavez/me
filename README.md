@@ -6,3 +6,7 @@
 - 📫 How to reach me:<br>
   🐦 Twitter: @Ricardo_Granja1<br>
   📷 Instagram: ricardogranjac<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-granja-chavez&hide=contributions&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-granja-chavez&layout=compact)](https://github.com/mayralgr/github-readme-stats)

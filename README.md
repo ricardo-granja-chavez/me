@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on iOS Apps
 - 🍔 I’m a food lover
 - 📫 How to reach me:<br>
-  🐦 Twitter: @Ricardo_Granja1<br>
-  📷 Instagram: ricardogranjac<br>
+- 🐦 Twitter: @Ricardo_Granja1<br>
+- 📷 Instagram: ricardogranjac<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-granja-chavez&hide=contributions&show_icons=true&theme=radical&count_private=true)
 
